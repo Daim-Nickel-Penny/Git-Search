@@ -1,12 +1,27 @@
 {
-  "name": "git-search",
+  "name": "git-search-repos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/Daim-Nickel-Penny/Git-Search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daim-Nickel-Penny/Git-Search.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "github",
+    "github api",
+    "repos",
+    "get repos",
+    "repositories",
+    "stars",
+    "sort",
+    "git",
+    "github repositories"
+  ],
   "author": "Daim Khan",
   "license": "ISC",
   "dependencies": {
